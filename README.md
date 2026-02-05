@@ -273,6 +273,9 @@ This project is licensed under the **MIT License**.
 
 ---
 
+Born from ideas & ❤️ by mwakidenis 
+
+---
  
 
 > 👨‍💻 Developer: **Arnold**
