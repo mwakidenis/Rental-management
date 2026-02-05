@@ -273,11 +273,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-Born from ideas & ❤️ by mwakidenis 
+Born from ideas by mwakidenis ❤️
 
 ---
  
-
-> 👨‍💻 Developer: **Arnold**
-
-Aspiring Tech Professional | Full‑Stack Developer
